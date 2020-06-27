@@ -1,0 +1,29 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/target/
+/user-profile-analysis.iml
+/.idea
+/README.md
+.DS_Store
+Title.md
+log/
+rms-gpd-fnps/log/
+rms-gpd-fnps/src/main/java/com/umpay/rms/gpd/fnp/config/redis/
+rms-gpd-fnps/src/main/resources/static/phone20200615/f5d310cb10a941e8beaa2da4972c757c.txt
+rms-gpd-fnps/src/test/
+/conf_local/
+/rms-gpd-fnps/log/
+/conf_local/

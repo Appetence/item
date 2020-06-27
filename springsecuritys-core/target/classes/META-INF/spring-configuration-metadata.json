@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "item.security",
+      "type": "com.ztx.securitys.core.properties.SecurityProperties",
+      "sourceType": "com.ztx.securitys.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "item.security.browser",
+      "type": "com.ztx.securitys.core.properties.BrowserProperties",
+      "description": "浏览器环境配置",
+      "sourceType": "com.ztx.securitys.core.properties.SecurityProperties"
+    },
+    {
+      "name": "item.security.code",
+      "type": "com.ztx.securitys.core.properties.ValidateCodeProperties",
+      "description": "验证码配置",
+      "sourceType": "com.ztx.securitys.core.properties.SecurityProperties"
+    }
+  ],
+  "hints": []
+}
